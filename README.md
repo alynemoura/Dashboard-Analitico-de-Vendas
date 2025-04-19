@@ -1,6 +1,6 @@
 # Dashboard-Analitico-de-Vendas (Capítulo 02 - Prática 01)
 
-![](cap_02/demonstrativo_relatorio.gif)
+![](CAP_02/demonstrativo_relatorio.gif)
 
 
 ## **Principais Perguntas Respondidas pelo Dashboard:**
