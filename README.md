@@ -21,7 +21,8 @@
     → *Explore os mercados mais lucrativos em um **mapa geográfico interativo*** (localizado na parte inferior esquerdo do dashboard).  
 
 ## **Conclusão:**
-   → *Nosso deshboard foi desenvolvido para ser intuitivo, dinâmico e altamente informativo, atendendo às necessidades de gestores, analistas e equipes comerciais. Com ele, você terá todas as irfomações necessárias para otimizar estratégias, identificar oportunidades e impulsionar os resultados da sua empresa.*  
+   → *Nosso deshboard foi desenvolvido para ser intuitivo, dinâmico e altamente informativo, atendendo às necessidades de gestores, analistas e equipes comerciais. Com ele, você terá todas as infomações necessárias para otimizar estratégias, identificar oportunidades e impulsionar os resultados da sua empresa.*  
+
 
 
 # Dashboard-Analitico-de-Vendas (Capítulo 03 - Prática 02)
@@ -50,4 +51,45 @@
     → *Explore os mercados mais lucrativos em um **mapa geográfico interativo*** (localizado na parte inferior esquerdo do dashboard).  
 
 ## **Conclusão:**
-   → *Nosso deshboard foi desenvolvido para ser intuitivo, dinâmico e altamente informativo, atendendo às necessidades de gestores, analistas e equipes comerciais. Com ele, você terá todas as irfomações necessárias para otimizar estratégias, identificar oportunidades e impulsionar os resultados da sua empresa.*  
+   → *Nosso deshboard foi desenvolvido para ser intuitivo, dinâmico e altamente informativo, atendendo às necessidades de gestores, analistas e equipes comerciais. Com ele, você terá todas as infomações necessárias para otimizar estratégias, identificar oportunidades e impulsionar os resultados da sua empresa.*  
+
+
+# Dashboard-Analitico-de-Vendas (Capítulo 04- Prática 03)
+
+## Mini Projeto: Análise de Marketing - Visão do Cliente  
+
+![](CAP_04/demonstrativo_lab03.gif)
+
+
+## **Principais Perguntas Respondidas pelo Dashboard:**
+
+1. **Qual o total de clientes registrados na nossa base de dados?**  
+   → *Visualize o total de clientes em um único indicador, utilizamos a coluna **"ID"** da nossa planilha* (apresentado pelo componente **cartão** localizado na seção superior esquerda do relatório).  
+
+2. **Qual a média salarial dos clientes?**  
+   → *Identificaremos a média salarial dos cadastros da nossa base de dados, por meio da coluna **"Salário Anual"*** (disponível no **cartão** na seção superior esquerda do dashboard).  
+
+3. **Qual o número total de compras realizadas nas lojas físicas?**  
+   → *Analise o volume de vendas realizadas presencialmente, por meio da coluna **"Número de Compras na Loja"*** (visualizado no componente**cartão** na seção central do relatório).  
+
+4. **Qual o total de compras realizadas pela internet?**  
+   → *A identificação dessa parcela de vendas se deu através da coluna **"Núemro de Compras na Web"*** (exibido em um **cartão** na seção superior do deashboard).  
+
+5. **Quantas compras foram finalizadas com desconto?**  
+    → *Visualize o total de compras fechadas com descontos por meio de um  **cartão**, para obertemos essa métrica utilizamos a coluna **"Número de Compras com Desconto"*** (localizado na parte direita da seção superior do relatório).  
+
+6. **Quantas compras foram realizadas via catálogo?**  
+    → *Observe o total de compras efetivadas através de catálogos em um **cartão**, a métrica foi obtida por meio da coluna **"Número de Compras via Catálogo"*** (localizado na parte direita da seção superior do relatório).  
+
+7. **Qual o grau de escolaridade dos clientes?**  
+    → *Identificaremos a distribuição dos clientes por grau de escolaridade utilizando as colunas **"ID"** e **"Escolaridade"** da nossa base de dados. O resultado será exibido através de um **gráfico de barras*** (localizado na parte esquerda da seção central).  
+
+8. **Qual a distribuição dos clientes por "Estado Civil"?**  
+   → *Identificaremos a dmétrica por meio das colunas **"ID"** e **"Estado Civil"** dos dados. O resultado está apresentado em um **gráfico de barras*** (localizado na parte direita da seção central).  
+
+9. **Por fim, como podemos filtrar a localização dos clientes?**  
+   → *A identificação da locacalização por país utiliza a coluna **"País"** e o componente **segmentação de dados** formatado em **bloco**, assim o filtro se torna mais dinânmico.* (localizado na parte inferior).  
+
+
+## **Conclusão:**
+   → *Nosso relatório foi elaborado para ser acessível, descomplicado e informativo, atendendo às necessidades de gestores, analistas e equipes comerciais. Com ele, você obterá todos os dados essenciais para aprimorar táticas, detectar chances e potencializar o desempenho do seu negócio.*  
