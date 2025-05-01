@@ -56,7 +56,7 @@
 
 
 
-## Mini Projeto: Análise de Marketing - Visão do Cliente  (Capítulo 04- Prática 03)
+## Mini Projeto 01: Análise de Marketing - Visão do Cliente  (Capítulo 04- Prática 03)
 
 ![](CAP_04/demonstrativo_lab03.gif)
 
@@ -95,7 +95,7 @@
    → *Nosso relatório foi elaborado para ser acessível, descomplicado e informativo, atendendo às necessidades de gestores, analistas e equipes comerciais. Com ele, você obterá todos os dados essenciais para aprimorar táticas, detectar chances e potencializar o desempenho do seu negócio.*  
 
 
-## Mini Projeto: Análise de Marketing - Visão Comportamento de Gasto do Cliente (Capítulo 04- Prática 03)
+## Mini-Projeto 01: Análise de Marketing - Visão Comportamento de Gasto do Cliente (Capítulo 04- Prática 03)
 
 ![](CAP_04/demosntrativo_04.gif)
 
@@ -118,7 +118,7 @@
 
 
 
-## Mini Projeto: Análise de Marketing - Visão da Performance das Campanhas de Venda
+## Mini-Projeto 01: Análise de Marketing - Visão da Performance das Campanhas de Venda (Capítulo 04- Prática 03)
 
 ![](CAP_04/demostrativo_05.gif)
 
@@ -143,7 +143,7 @@
 
 
 
-## Mini Projeto: Análise de Marketing - Visão dos Padrões de Compra Por Ponto de Vendas
+## Mini-Projeto 01: Análise de Marketing - Visão dos Padrões de Compra Por Ponto de Vendas (Capítulo 04- Prática 03)
 
 ![](CAP_04/demostrativo_06.gif)
 
@@ -162,4 +162,23 @@
 
 ## **Conclusão:**
    → *Nosso deshoard objetiva atender  às necessidades de gestores, analistas e equipes comerciais. Com ele, você terá todas as infomações necessárias para otimizar estratégias, identificar oportunidades e impulsionar os resultados da sua empresa.* 
+
+
+
+
+## Mini-Projeto 02: Dashboard Comercial - Performance de Vendas (Capítulo 05- Prática 04)
+
+![](CAP_05/demonstrativo_mp02.gif)
+
+
+## Este mini-projeto traz uma breve introdução à análise de dados comerciais com o Power BI.
+
+**Foram construidas diversas visualizações para compreender a performance de vendas de uma empresa fictícia por diferente ângulos: Narrativa Inteligente; Principais Influenciadores; Gráfico de Faixas e criação de um Menu para Índice do Desheboard.** 
+
+
+*Foram utilizados dados fictícios para este projeto.*
+
+
+## **Conclusão:**
+   → *Este mini-projeto ofereceu uma introdução prática à análise de dados comerciais utilizando o Power BI, destacando sua capacidade de transformar informações brutas em insights valiosos para a tomada de decisões. Através da visualização interativa e de ferramentas intuitivas, é possível identificar tendências, otimizar processos e impulsionar resultados estratégicos* 
 
